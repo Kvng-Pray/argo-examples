@@ -1,3 +1,4 @@
+namespace: myhelmapp
 replicas: 1
 configmap:
   data:
