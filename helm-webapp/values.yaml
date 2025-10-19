@@ -1,3 +1,4 @@
+namespace: myhelmapp
 replicas: 1
 appName: myhelmapp
 port: 80
